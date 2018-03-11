@@ -1,0 +1,7 @@
+#config git
+git config --global push.default simple
+git config --global core.autocrlf false
+git config --global user.name "Pawel Chwaleba"
+git config --global user.email "pawel.chwaleba@pwc.com"
+git config --global rerere.enabled 1
+git config --global rerere.autoUpdate 1

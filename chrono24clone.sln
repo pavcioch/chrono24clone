@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "play", "play", "{045CCB9D-8001-408B-8319-DEFD4EBE10B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "play\ConsoleApp1\ConsoleApp1.csproj", "{10E372BD-87E8-44B1-98F7-08D10AA79ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E372BD-87E8-44B1-98F7-08D10AA79ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E372BD-87E8-44B1-98F7-08D10AA79ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E372BD-87E8-44B1-98F7-08D10AA79ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E372BD-87E8-44B1-98F7-08D10AA79ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10E372BD-87E8-44B1-98F7-08D10AA79ACC} = {045CCB9D-8001-408B-8319-DEFD4EBE10B9}
+	EndGlobalSection
+EndGlobal
