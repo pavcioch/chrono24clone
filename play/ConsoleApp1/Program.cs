@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am console app bitch !");
+            Console.WriteLine("I am console app !!");
 
 
             Console.WriteLine("Press any key to continue ...");
